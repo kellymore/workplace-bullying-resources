@@ -16,6 +16,7 @@
 
 - [Ginny Clarke](https://www.youtube.com/@5-DLeadership)
 - [Workplace Bullying Institute-WBI](https://www.youtube.com/@WBI)
+- [Workplace Keyes to Success](https://www.youtube.com/@workplacekeyestosuccess9230)
 
 
 
@@ -26,11 +27,16 @@
 [The Four Workplace Bully Types](https://www.youtube.com/watch?v=tvPqSn-W7QY)
 [Prepare for the 1:1 Ambush Meeting](https://www.youtube.com/watch?v=OLdkCEnJrX8)
 [Bullying and Corporate Psychopaths at Work: Clive Boddy at TEDxHanzeUniversity](https://www.youtube.com/watch?v=tlB1pFwGhA4)
+- [How to Eliminate Workplace Bullying and Incivility](https://www.youtube.com/watch?v=hDfviFLa1BA)
+- [Leadership in Eliminating Workplace Bullying](https://www.youtube.com/watch?v=1jO-To2K1AQ)
+- [Why are YOU the Target of Workplace Bullying?](https://www.youtube.com/watch?v=WyS4r_XlB68)
 
 
 ## Articles
 
 - [How Bullying Manifests at Work — and How to Stop It - Harvard Business Review](https://hbr.org/2022/11/how-bullying-manifests-at-work-and-how-to-stop-it)
+- [What is Deliberate Exclusion?](https://www.linkedin.com/pulse/what-deliberate-exclusion-deepa-natarajan)
+- [Ostracized from Group? It May be Bullying by Social Exclusion](https://psychcentral.com/blog/bullying-incognito-deliberate-social-exclusion)
 
 
 
@@ -51,5 +57,6 @@
 
 ## Government Resources
 
-- [Discrimination, harassment, and retaliation - usa.gov](https://www.usa.gov/job-discrimination-harassment)
+- [Discrimination, harassment, and retaliation](https://www.usa.gov/job-discrimination-harassment)
 - [Workplace Bullying and Violence](https://lni.wa.gov/safety-health/safety-research/ongoing-projects/workplace-bullying)
+- [Workplace Bullying: A Tale of Adverse Consequences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4382139/)
