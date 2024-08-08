@@ -13,7 +13,7 @@ If you encounter any issues with the repository or have suggestions for improvem
 
 ### Adding New Resources
 
-We welcome new resources in the form of articles, guides, videos, and podcasts. To add a new resource:
+To add a new resource:
 1. **Fork the repository**: Click the "Fork" button on the top right of the repository page to create a copy of the repository in your GitHub account.
 2. **Clone your fork**: Clone the forked repository to your local machine using:
    ```sh
