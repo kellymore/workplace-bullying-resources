@@ -1,4 +1,4 @@
-# Workplace Bullying Survival Resources
+# Workplace Bullying Resources
 
 ## About
 This repository is a collection of resources to help individuals understand and survive workplace bullying. We aim to provide articles, guides, videos, and podcasts that offer support and practical advice.
