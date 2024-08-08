@@ -91,7 +91,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 
 
 ## Contact
-If you have any questions or suggestions, feel free to [open an issue](https://github.com/your-username/workplace-bullying-resources/issues).
+If you have any questions or suggestions, feel free to open an issue.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
