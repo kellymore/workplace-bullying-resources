@@ -61,3 +61,8 @@ We review all pull requests as quickly as possible. When reviewing a pull reques
 
 ### Code of Conduct
 We are committed to creating a welcoming and inclusive environment for everyone. Please read our Code of Conduct and adhere to it in all your interactions within the project.
+
+### Thank You
+Thank you for contributing to Workplace Bullying Resources! Your efforts help build a valuable resource for individuals facing workplace bullying. If you have any questions, feel free to open an issue or contact us directly.
+
+
