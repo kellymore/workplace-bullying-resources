@@ -62,6 +62,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [Why are YOU the Target of Workplace Bullying?](https://www.youtube.com/watch?v=WyS4r_XlB68)
 - [How do you recognize covert workplace bullying and what can be done about it?](https://www.youtube.com/watch?v=9p4lacGhSe4&t=68s)
 - [Wipe Out Workplace Bullying: How HR Can Make It Happen With Gary Namie And David Yamada (#36)](https://www.youtube.com/watch?v=nCPJMqC-hzM&t=316s)
+- [Workplace Bullying: The Silent Epidemic](https://www.youtube.com/watch?v=P6PsgAqES2s)
 
 
 ## Articles
