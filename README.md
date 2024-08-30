@@ -40,6 +40,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [The Bully at Work: What You Can Do to Stop the Hurt and Reclaim Your Dignity on the Job](https://www.amazon.com/Bully-Work-What-Reclaim-Dignity/dp/1402224265)
 - [Bullyproof Yourself at Work!](https://www.amazon.com/Bullyproof-Yourself-Work-Strategies-Harassment/dp/0966862953)
 - [The Bully-Free Workplace: Stop Jerks, Weasels, and Snakes From Killing Your Organization](https://www.amazon.com/Bully-Free-Workplace-Weasels-Killing-Organization/dp/0470942207)
+- [Mobbed!: What to Do When They Really Are Out to Get You](https://www.amazon.com/Mobbed-What-When-They-Really-ebook/dp/B01HK41KQG)
 
 
 ## YouTube Channels
