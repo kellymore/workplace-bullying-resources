@@ -63,6 +63,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [How do you recognize covert workplace bullying and what can be done about it?](https://www.youtube.com/watch?v=9p4lacGhSe4&t=68s)
 - [Wipe Out Workplace Bullying: How HR Can Make It Happen With Gary Namie And David Yamada (#36)](https://www.youtube.com/watch?v=nCPJMqC-hzM&t=316s)
 - [Workplace Bullying: The Silent Epidemic](https://www.youtube.com/watch?v=P6PsgAqES2s)
+- [MOBBING: When Bullying turns into a Group Aggression](https://www.youtube.com/watch?v=TOSr8cA-0WY)
 
 
 ## Articles
