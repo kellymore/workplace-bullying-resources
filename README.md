@@ -57,9 +57,9 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 
 - [Bob Sutton: How to Outwit Workplace Jerks [Entire Talk]](https://www.youtube.com/watch?v=wFTkQmPw2Gk)
 - [Got a workplace bully? Do this next](https://www.youtube.com/watch?v=a5J3ozN8J74)
-[The Four Workplace Bully Types](https://www.youtube.com/watch?v=tvPqSn-W7QY)
-[Prepare for the 1:1 Ambush Meeting](https://www.youtube.com/watch?v=OLdkCEnJrX8)
-[Bullying and Corporate Psychopaths at Work: Clive Boddy at TEDxHanzeUniversity](https://www.youtube.com/watch?v=tlB1pFwGhA4)
+- [The Four Workplace Bully Types](https://www.youtube.com/watch?v=tvPqSn-W7QY)
+- [Prepare for the 1:1 Ambush Meeting](https://www.youtube.com/watch?v=OLdkCEnJrX8)
+- [Bullying and Corporate Psychopaths at Work: Clive Boddy at TEDxHanzeUniversity](https://www.youtube.com/watch?v=tlB1pFwGhA4)
 - [How to Eliminate Workplace Bullying and Incivility](https://www.youtube.com/watch?v=hDfviFLa1BA)
 - [Leadership in Eliminating Workplace Bullying](https://www.youtube.com/watch?v=1jO-To2K1AQ)
 - [Why are YOU the Target of Workplace Bullying?](https://www.youtube.com/watch?v=WyS4r_XlB68)
@@ -68,6 +68,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [Workplace Bullying: The Silent Epidemic](https://www.youtube.com/watch?v=P6PsgAqES2s)
 - [MOBBING: When Bullying turns into a Group Aggression](https://www.youtube.com/watch?v=TOSr8cA-0WY)
 - [The 5 Stages of a Workplace Mobbing with Henrik Bergdahl](https://youtu.be/O2p_qQIHGg0?si=MJPH7OavNT-qkUyi)
+- [What Everyone Should Know About Workplace Mobbing](https://www.youtube.com/watch?v=HPPJNvkhouI)
 
 
 ## Articles
