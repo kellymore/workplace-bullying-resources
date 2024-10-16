@@ -41,6 +41,8 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [Bullyproof Yourself at Work!](https://www.amazon.com/Bullyproof-Yourself-Work-Strategies-Harassment/dp/0966862953)
 - [The Bully-Free Workplace: Stop Jerks, Weasels, and Snakes From Killing Your Organization](https://www.amazon.com/Bully-Free-Workplace-Weasels-Killing-Organization/dp/0470942207)
 - [Mobbed!: What to Do When They Really Are Out to Get You](https://www.amazon.com/Mobbed-What-When-They-Really-ebook/dp/B01HK41KQG)
+- [Overcoming Mobbing: A Recovery Guide for Workplace Aggression and Bullying](https://www.amazon.com/Overcoming-Mobbing-Recovery-Workplace-Aggression-ebook/dp/B00GSRWJ0S)
+- [Mobbing: Emotional Abuse in the American Workplace](https://www.amazon.com/Mobbing-Emotional-Abuse-American-Workplace/dp/0967180309)
 
 
 ## YouTube Channels
@@ -65,6 +67,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [Wipe Out Workplace Bullying: How HR Can Make It Happen With Gary Namie And David Yamada (#36)](https://www.youtube.com/watch?v=nCPJMqC-hzM&t=316s)
 - [Workplace Bullying: The Silent Epidemic](https://www.youtube.com/watch?v=P6PsgAqES2s)
 - [MOBBING: When Bullying turns into a Group Aggression](https://www.youtube.com/watch?v=TOSr8cA-0WY)
+- [The 5 Stages of a Workplace Mobbing with Henrik Bergdahl](https://youtu.be/O2p_qQIHGg0?si=MJPH7OavNT-qkUyi)
 
 
 ## Articles
