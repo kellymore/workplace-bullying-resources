@@ -1,7 +1,7 @@
 # Workplace Bullying Resources
 
 ## About
-This repository is a collection of resources to help individuals understand and survive workplace bullying. We aim to provide articles, guides, videos, and podcasts that offer support and practical advice.
+This repository is a collection of resources to help individuals understand and survive workplace bullying. It aims to provide articles, guides, videos, and podcasts that offer support and practical advice.
 
 ## How to Contribute
 We welcome contributions from everyone. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to get started.
@@ -50,6 +50,7 @@ We are committed to providing a welcoming and supportive environment for all. Pl
 - [Ginny Clarke](https://www.youtube.com/@5-DLeadership)
 - [Workplace Bullying Institute-WBI](https://www.youtube.com/@WBI)
 - [Workplace Keyes to Success](https://www.youtube.com/@workplacekeyestosuccess9230)
+- [Jefferson Fisher](https://www.youtube.com/@jeffersonfisher/videos)
 
 
 
